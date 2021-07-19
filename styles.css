@@ -1,0 +1,186 @@
+.menu {
+	text-align: center;
+
+}
+.menu a {
+	text-decoration: none;
+	color: black;
+	width: 100px;
+	display: inline-block;
+}
+.menu button {
+	display: block;
+	margin: 10px auto;
+}
+.menu a:hover {
+	background-color: #ccc
+}
+.header {
+	text-align: center;
+	color: white;
+	background-image: url(images/polygons.png);
+	padding: 200px 0;
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+#about-company p {
+	text-align: justify;
+	padding:	5px;
+	width: 790px;
+}
+#about-company img {
+	padding: 0px;
+	width: 390px;
+	display: inline-block;
+}
+#about-company {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 40px 0;
+	text-align: center;
+}
+#about-company div {
+	display: inline-block;
+}
+.member {
+	display: inline-block;
+	width: 20%;
+	margin: 20px 10px;
+	border:/* 2px solid grey*/;
+	box-shadow: 0 2px 5px grey;
+	padding: 20px;
+	text-align: left;
+}
+.member img {
+	width: 100%;
+}
+.member a {
+	text-decoration: none;
+	display: inline-block;
+	background-color: #055b73;
+	width: 100%;
+	color: white;
+	border-radius: 10px;
+	padding: 14px 0;
+	text-align: center;
+}
+.member h3 {
+	font-weight: 400;
+	font-size: 24px;
+}
+.member .position {
+	opacity: 0.6;
+}
+#team {
+	text-align: center;
+}
+.price li {
+	list-style-type: none;
+	border-bottom: 1px solid #dddddd;
+	padding: 16px 0;
+}
+.price-name {
+	background-color: black;
+	font-size: 24px;
+	padding: 32px 0;
+	color: white;
+}
+.price {
+	display: inline-block;
+	width: 30%;
+	margin: 10px;
+	vertical-align: middle;
+	background-color:	white;
+	text-align: center;
+	padding: 0;
+	min-width: 150px;
+
+}
+.price .pro {
+	background-color: #055b73;
+	padding: 48px 0;
+}
+.price li:last-child {
+	background-color: #f1f1f1;
+	padding: 24px 0;
+}
+.price a {
+	background-color: black;
+	text-decoration: none;
+	color: white;
+	padding: 12px 24px;
+	border-radius: 10px;
+}
+.price a:hover {
+	background-color: white;
+	color: black;
+}
+#prices {
+	background-color: #616161;
+	text-align: center;
+	padding: 50px 0;
+}
+#prices h3,#prices p {
+	color: white;
+}
+.important {
+	font-weight:	bold;
+}
+#prices .payment {
+	color: black;
+	font-weight: bold;
+	font-size: 24px;
+}
+#prices .period {
+	color:	black;
+	opacity: 0.4;
+}
+#contact {
+	background-color: #f1f1f1;
+	text-align: center;
+	padding: 40px 0;
+}
+.contact-address {
+	background-image:	url(images/address.png);
+}
+.contact-phone {
+	background-image: url(images/phone.png);
+}
+.contact-mail {
+	background-image: url(images/mail.png);
+}
+.contact-info {
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-size: 18px 18px;
+	text-align: left;
+	margin-left: 5%;
+	padding-left: 30px;
+}
+#contact input {
+	padding: 8px;
+	width: 90%;
+}
+#contact button {
+	background-color: black;
+	color: white;
+	padding: 8px 16px;
+	cursor: pointer;
+	border: none;
+	outline: none;
+}
+#contact button:hover {
+	background-color: white;
+	color: black;
+}
+#bottom {
+	background-color: black;
+	color: white;
+	padding: 1px 0px;
+}
+#bottom h3{
+	margin: 0;
+}
+/**{
+	box-sizing: border-box;
+}*/
