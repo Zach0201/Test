@@ -1,6 +1,8 @@
+body {
+	margin: 0;
+}
 .menu {
 	text-align: center;
-
 }
 .menu a {
 	text-decoration: none;
@@ -91,7 +93,6 @@
 	margin: 10px;
 	vertical-align: middle;
 	background-color:	white;
-	text-align: center;
 	padding: 0;
 	min-width: 150px;
 
