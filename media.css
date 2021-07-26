@@ -16,6 +16,9 @@
 
 	}
 	.member {
-		width: 90%;
+		width: 80%;
+	}
+	#about-company  {
+		max-width: 90%;
 	}
 }

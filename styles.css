@@ -28,7 +28,7 @@ body {
 #about-company p {
 	text-align: justify;
 	padding:	5px;
-	width: 790px;
+	/*width: 790px;*/
 }
 #about-company img {
 	padding: 0px;
